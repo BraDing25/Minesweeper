@@ -16,3 +16,7 @@ Once the board is generated the game itself is a cycle of reading, processing, a
 I learned a lot from this project. The biggest thing I learned was how to actually code in Python since this was the first time I ever have. I learned the syntax and key differences of Pythron from other scripts like Java. Additionally, I learned how to use the packages pygame, tkinter, numpy, os, and random at their most basic level.
 
 I do, however, have a lot more to learn especially when it comes to optimization, condensing code, and if I'd like, more advances uses of the previously mentioned packages.
+
+## How to Run
+
+Simply click the run icon in the top right corner or however you typically run your python scripts
