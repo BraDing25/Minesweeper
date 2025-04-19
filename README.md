@@ -17,6 +17,6 @@ I learned a lot from this project. The biggest thing I learned was how to actual
 
 I do, however, have a lot more to learn especially when it comes to optimization, condensing code, and if I'd like, more advances uses of the previously mentioned packages.
 
-## How to Run
+## How to Play
 
-Simply click the run icon in the top right corner or however you typically run your python scripts
+Simply run the script
