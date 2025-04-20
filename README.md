@@ -11,7 +11,7 @@ My minesweeper works by first showing a dialog box prompting the user to select 
 Once the board is generated the game itself is a cycle of reading, processing, and updating inputs until the game ends by checking if cells are marked visible or flagged and updating textures accordingly, and updating cell attributes based on left or right clicks by the mouse.
 
 
-## Lessons Learned:
+## Lessons Learned
 
 I learned a lot from this project. The biggest thing I learned was how to actually code in Python since this was the first time I ever have. I learned the syntax and key differences of Pythron from other scripts like Java. Additionally, I learned how to use the packages pygame, tkinter, numpy, os, and random at their most basic level.
 
